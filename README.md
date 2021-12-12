@@ -1,6 +1,5 @@
-# AI
 
-## Deep Learning Paper Review and Practice (reference 동빈나 youtube)
+## Deep Learning Paper Review and Practice 
 
 
 + VGGNet: DVery Deep Convolutional Networks for Large-Scale Image Recognition  
@@ -12,12 +11,14 @@
 + MTCNN: Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks   
 [Original Paper Link](https://arxiv.org/abs/1604.02878) / [Paper Review Note](https://devyjna.tistory.com/41) / Code Practice
 
++ ArcFace: Additive Angular Margin Loss for Deep Face Recognition   
+[Original Paper Link](https://arxiv.org/abs/1801.07698) / Paper Review Note / Code Practice
+
++ FaceNet: A Unified Embedding for Face Recognition and Clustering   
+[Original Paper Link](https://arxiv.org/abs/1503.03832) / Paper Review Note / Code Practice
+
 + GAN: Generative Adversarial Nets (NIPS 2014)   
 [Original Paper Link](https://arxiv.org/abs/1406.2661) / Paper Review Note / Code Practice
-
-
-
-
 
 ------------------------------------------------------------------------------------------
 NEXT
@@ -35,5 +36,3 @@ NEXT
 + StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation   
 [Original Paper Link](https://arxiv.org/abs/1711.09020) / Paper Review Note / Code Practice
 
-+ ArcFace: Additive Angular Margin Loss for Deep Face Recognition   
-[Original Paper Link](https://arxiv.org/abs/1801.07698) / Paper Review Note / Code Practice
